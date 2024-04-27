@@ -24,6 +24,3 @@ Terdapat Empat page dalam program ini:
 
 #### Detail Characters Page
 <img width="500" src="https://github.com/adem299/TP3DPBO2023/assets/100661834/b7b5a5e5-e231-48e5-a998-3a3f8341c63f" >
-
-# Demo
-https://github.com/adem299/TP3DPBO2023/assets/100661834/506ae26c-98d9-420c-8d3b-d63e0d4de5ef
